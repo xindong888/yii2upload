@@ -50,7 +50,7 @@ class PostsController extends Controller
 ```
 
 表单内写入小部件
-```html
+```php
 
 <?php $form = ActiveForm::begin(); ?>
     <?php
