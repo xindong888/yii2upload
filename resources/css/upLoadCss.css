@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/*
+控制上传按钮的
+*/
+.a-upload {
+  position: relative;
+  overflow: hidden;
+  *zoom: 1; }
+
+/*
+控制上传表单项的
+ */
+.inputFile {
+  position: absolute;
+  font-size: 100px;
+  right: 0;
+  top: 0;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  cursor: pointer; }
+
+/*
+控制预览图片
+ */
+#output-preview {
+  display: none; }
+
+/*
+控制整体样式的
+ */
+.yii2UpLoadCss {
+  width: 200px; }
+
+.yii2UpLoadProgress {
+  display: none; }
+
+/*# sourceMappingURL=upLoadCss.css.map */
