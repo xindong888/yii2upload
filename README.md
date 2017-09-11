@@ -1,6 +1,10 @@
 
 功能说明:带有进度条\预览的Yii2图片上传小部件
 
+![GitHub][github]
+
+[github]:https://github.com/xindong888/yii2upload/blob/master/pic/yii2upload.png?raw=true
+
 使用环境:
 
 **必须在Yii2的环境下使用**
